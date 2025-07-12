@@ -1,7 +1,7 @@
 {
     "db_name": "chinook",
     "user": "test",
-    "password": "Arowathi@175",
+    "password": "YOUR-PASSWORD",
     "host": "localhost",
     "port": "5432"
 }
