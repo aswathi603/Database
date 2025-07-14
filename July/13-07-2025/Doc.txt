@@ -1,0 +1,5 @@
+Username : aswathipp17
+Password : Arowathi@175
+python -m pip install "pymongo[srv]"
+mongodb+srv://aswathipp17:<db_password>@cluster0.6m9fvck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://aswathipp17:Arowathi@175@cluster0.6m9fvck.mongodb.net/
